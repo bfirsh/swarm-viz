@@ -2,7 +2,7 @@
 
 Here are a bunch of scripts that help you visualise a Swarm. It's a bit of a mess, and in a "works for me" state, so no guarantees it'll work for you.
 
-Props to [Sean](https://github.com/Elesant), [Jeff](https://github.com/jeffdm) and [Alvin](https://github.com/alvinr) for building most of this.
+Props to [Sean](https://github.com/Elesant), [Jeff](https://github.com/jeffdm), [Alvin](https://github.com/alvinr), and [Patrick](https://github.com/chanezon) for building most of this.
 
 ## Running
 
